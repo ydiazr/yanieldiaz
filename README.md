@@ -1,2 +1,0 @@
-# yanieldiaz
-Administrador de Systemas
